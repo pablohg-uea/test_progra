@@ -1,6 +1,6 @@
 # Titulo 1 Pull   conflict 1
 
-Rama develop czmelfmioperjmgopa
+Rama develop czmelfmioperjmgopan, 
 
-## Subtitulo 
-fgblbp`tlg'
+## Subtitulo b n mnbc vn 
+fgblbp`tlg'v 
